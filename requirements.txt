@@ -1,0 +1,20 @@
+# Core Data Processing & Analysis
+pandas>=2.0.0
+numpy>=1.24.0
+pyarrow>=12.0.0
+duckdb>=0.9.0
+
+# Financial Analysis & Spreadsheet Generation
+openpyxl>=3.1.2
+xlsxwriter>=3.1.0
+
+# Visualization & Reporting
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Testing & Reproducibility
+pytest>=7.3.0
+
+# Notebook Environment
+jupyter>=1.0.0
+ipykernel>=6.20.0

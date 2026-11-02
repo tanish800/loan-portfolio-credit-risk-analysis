@@ -1,0 +1,36 @@
+SubGrade,Grade,RiskTier,GradeRank
+A1,A,Prime,1
+A2,A,Prime,2
+A3,A,Prime,3
+A4,A,Prime,4
+A5,A,Prime,5
+B1,B,Prime,6
+B2,B,Prime,7
+B3,B,Prime,8
+B4,B,Prime,9
+B5,B,Prime,10
+C1,C,Near Prime,11
+C2,C,Near Prime,12
+C3,C,Near Prime,13
+C4,C,Near Prime,14
+C5,C,Near Prime,15
+D1,D,Near Prime,16
+D2,D,Near Prime,17
+D3,D,Near Prime,18
+D4,D,Near Prime,19
+D5,D,Near Prime,20
+E1,E,Subprime,21
+E2,E,Subprime,22
+E3,E,Subprime,23
+E4,E,Subprime,24
+E5,E,Subprime,25
+F1,F,High Risk,26
+F2,F,High Risk,27
+F3,F,High Risk,28
+F4,F,High Risk,29
+F5,F,High Risk,30
+G1,G,High Risk,31
+G2,G,High Risk,32
+G3,G,High Risk,33
+G4,G,High Risk,34
+G5,G,High Risk,35
